@@ -2,76 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08b73742-bf76-4272-b8af-dc7f87db2679" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDA_JavaTM06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Borcaniada/Borcan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Borcaniada/Camara.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/DateAndTimeEx/DateAndTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/DateAndTimeEx/Exercise1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/DateAndTimeEx/Exercise2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/DateAndTimeEx/Exercise3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/DateAndTimeEx/Exercise4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/DateAndTimeEx/Exercise5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/DateAndTimeEx/Exercise6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/DateAndTimeEx/Exercise7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/DateAndTimeEx/Exercise8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercises/Exercise1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercises/Exercise2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/Casete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/DascalF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/Ex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/LoopsEX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/MatriceLELELE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/MatriceStrange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/MultipluMatrice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/Palindorm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/SelfExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/SortArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Exercitii/SwitchArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Incapere/Borcan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Incapere/Camara.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Incapere/ManagerCamara.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Incapere/ObiectulDinCamara.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Incapere/Raft.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Incapere/Stelaj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/Incapere/Sticla.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/META-INF/SDA_JavaTM06.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA_JavaTM06/ro/sdaacademy/javafundamentals/Ex1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Borcaniada/Borcan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Borcaniada/Camara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateAndTimeEx/DateAndTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateAndTimeEx/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateAndTimeEx/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateAndTimeEx/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateAndTimeEx/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateAndTimeEx/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateAndTimeEx/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateAndTimeEx/Exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateAndTimeEx/Exercise8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/Casete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/DascalF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/Ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/LoopsEX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/MatriceLELELE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/MatriceStrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/MultipluMatrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/Palindorm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/SelfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitii/SwitchArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Incapere/Borcan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Incapere/Camara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Incapere/ManagerCamara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Incapere/ObiectulDinCamara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Incapere/Raft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Incapere/Stelaj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Incapere/Sticla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sdaacademy/javafundamentals/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sdaacademy/javafundamentals/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sdaacademy/javafundamentals/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDA_JavaTM06/ro/sdaacademy/javafundamentals/Ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/sdaacademy/javafundamentals/Ex1.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,11 +25,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TtSG8Ymbum1tRuT7cLhESVQVzg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -108,7 +45,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex1 (1)">
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.sdaacademy.javafundamentals.Array" />
+      <module name="SDA_JavaTM06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.sdaacademy.javafundamentals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.sdaacademy.javafundamentals.Ex1" />
       <module name="SDA_JavaTM06" />
@@ -129,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercitiiTest.Exercise1" />
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.sdaacademy.javafundamentals.Ex2" />
       <module name="SDA_JavaTM06" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExercitiiTest.*" />
+          <option name="PATTERN" value="ro.sdaacademy.javafundamentals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,21 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DateAndTimeEx.Exercise8" />
-      <module name="SDA_JavaTM06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DateAndTimeEx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManagerCamara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Incapere.ManagerCamara" />
+    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercitii.SortArray" />
       <module name="SDA_JavaTM06" />
       <extension name="coverage">
         <pattern>
@@ -170,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.SortArray" />
+        <item itemvalue="Application.Ex2" />
         <item itemvalue="Application.Ex1 (1)" />
         <item itemvalue="Application.Ex1" />
-        <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.ManagerCamara" />
-        <item itemvalue="Application.Exercise8" />
       </list>
     </recent_temporary>
   </component>
@@ -201,5 +138,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ro/sdaacademy/javafundamentals/Array.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
